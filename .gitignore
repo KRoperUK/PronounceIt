@@ -8,6 +8,6 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-pocketbase
+pocketbase_server
 pb_data
 pb_migrations
