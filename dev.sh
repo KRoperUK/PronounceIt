@@ -1,0 +1,1 @@
+npm run dev -- --open & ./pocketbase_server serve
